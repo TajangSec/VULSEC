@@ -1,1 +1,7 @@
 huayu reporter Password disclosure
+for example：http://asama.no-ip.com:9091/
+in web page source code:
+in line 142 : "name":"admin","password":"ec94fb8f215b8943af3b051da0728b72"
+password md5 decode: 68467242
+
+in login page ,use admin/68467242 login web manager
